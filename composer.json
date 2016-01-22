@@ -1,0 +1,29 @@
+{
+	"name": "myvendor/mypackage",
+	"description": "A library that is doing ...",
+	"type": "library",
+	"license": "MIT",
+	"homepage": "https://www.example.com",
+	"keywords": [
+		"example",
+		"keywords"
+	],
+	"authors": [ {
+		"name": "your name",
+		"email": "email@example.com",
+		"homepage": "http://www.example.com/"
+	} ],
+
+    "require": {
+    	"php": ">=5.4",
+        "vendor/package": "0.*"
+    },
+
+    "autoload": {
+    	"psr-4": {
+    		"myvendor\\mypackage": "src/"
+    	}
+    },
+
+    "minimum-stability": "dev"
+}
