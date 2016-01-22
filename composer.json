@@ -1,5 +1,5 @@
 {
-	"name": "myvendor/mypackage",
+	"name": "browserfs/ci",
 	"description": "A library that is doing ...",
 	"type": "library",
 	"license": "MIT",
@@ -21,7 +21,7 @@
 
     "autoload": {
     	"psr-4": {
-    		"browserfs\\ci": "src/"
+    		"browserfs\\ci\\": "src/"
     	}
     },
 
