@@ -7,7 +7,7 @@ php:
 
 before_script:
     - composer self-update
-    - composer require vendor/package
+    - composer require andrioli/hello-composer
 
 script: phpunit
 
