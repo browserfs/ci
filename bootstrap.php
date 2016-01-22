@@ -45,7 +45,7 @@ function autoload_init( $class_prefix, $base_dir ) {
 
 }
 
-autoload_init( 'myvendor\\mymodule', __DIR__ . '/src/' );
+autoload_init( 'browserfs\\ci', __DIR__ . '/src/' );
 
 // during Travis CI build for example, if any composer dependencies are required, 
 // a "vendor" folder will be created during testing inside of your root project.

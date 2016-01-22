@@ -1,8 +1,6 @@
 # Sample PHP project using TravisCI, PhpUnit and Composer
 
-```
-[![Build Status](https://travis-ci.org/<your_vendor_name>/<your_module_name>.svg?branch=master)](https://travis-ci.org/<your_vendor_name>/<your_module_name>)
-```
+[![Build Status](https://travis-ci.org/browserfs/ci.svg?branch=master)](https://travis-ci.org/browserfs/ci)
 
 What you should do:
 

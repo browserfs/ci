@@ -21,7 +21,7 @@
 
     "autoload": {
     	"psr-4": {
-    		"myvendor\\mypackage": "src/"
+    		"browserfs\\ci": "src/"
     	}
     },
 
