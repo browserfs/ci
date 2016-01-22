@@ -16,7 +16,7 @@
 
     "require": {
     	"php": ">=5.4",
-        "andrioli/hello-composer": "*"
+        "browserfs/string": "*"
     },
 
     "autoload": {

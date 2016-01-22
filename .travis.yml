@@ -7,7 +7,7 @@ php:
 
 before_script:
     - composer self-update
-    - composer require andrioli/hello-composer
+    - composer require browserfs/string
 
 script: phpunit
 
